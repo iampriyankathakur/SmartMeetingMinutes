@@ -1,1 +1,14 @@
+# Core NLP / ML
+transformers>=4.0.0
+torch
+spacy
 
+# Utilities
+pandas
+tqdm
+
+# Optional for web UI
+streamlit
+
+# Testing
+pytest
