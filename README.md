@@ -26,4 +26,3 @@ smart-meeting-minutes/
 │    └── prototype.ipynb
 │── tests/
 │    └── test_pipeline.py
-👉 Do you want me to also show you **how to add GitHub badges** (like Python, NLP, Transformers) to your README so it looks more professional?
